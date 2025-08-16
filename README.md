@@ -72,7 +72,7 @@ _This will generate a new key._
 
 Go to **GitHub > Settings > SSH and GPG keys > New SSH key**
 
-![Screen](Pasted_image_20250816110252.png)
+![Screen](Screen.png)
  
  In the **"Title"** you can add a label for the new key. For example: "My MacBook Air".
  Then, paste in your SSH key and click the **"Add SSH key"** button. After that you may be asked to confirm your password.
@@ -86,4 +86,4 @@ ssh -T git@github.com
 And if everything is well, you will see this message:
 
 ![Message](Message.png)
-![Ein is happy](processed_image.png)
+![Ein is happy](Ein_is_happy.png)
