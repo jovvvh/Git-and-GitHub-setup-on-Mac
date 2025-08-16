@@ -13,7 +13,7 @@ Then, check if Git is installed with this command:
 git --version
 ```
 _If everything worked, you should see a message with the Git version installed._
-![[processed_image (2).png]]
+![Ein is ready](processed\image(2).png)
 ## Time for some configuration steps !
 
 ```
@@ -72,7 +72,7 @@ _This will generate a new key._
 
 Go to **GitHub > Settings > SSH and GPG keys > New SSH key**
 
-![[Pasted image 20250816110252.png]]
+![Screen](Pasted\image\20250816110252.png)
  
  In the **"Title"** you can add a label for the new key. For example: "My MacBook Air".
  Then, paste in your SSH key and click the **"Add SSH key"** button. After that you may be asked to confirm your password.
@@ -85,5 +85,5 @@ ssh -T git@github.com
 
 And if everything is well, you will see this message:
 
-![[Pasted image 20250816110616.png]]
-![[processed_image.png]]
+![Message](Pasted\image\20250816110616.png)
+![Ein is happy](processed_image.png)
